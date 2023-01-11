@@ -13,7 +13,7 @@ public class Main {
         friends.add("Me");
         friends.add("Myself");
         friends.add("I");
-        friends.add("I");
+        friends.add("Me");
         friends.add("I");
         friends.add("I");
         friends.add("I");
